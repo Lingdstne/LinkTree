@@ -78,27 +78,27 @@ body {
 
 (max-width: 968px) {
   .profile img {
-    width: 250%;
-    max-width: 440px;
+    width: 450%;
+    max-width: 640px;
     height: auto;
   }
 
   .profile h1 {
-    font-size: 64px;
+    font-size: 364px;
   }
 
   .link {
-    width: 250%; 
-    max-width: 350px; 
+    width: 650%; 
+    max-width: 750px; 
     height: auto;
   }
 
   .link img {
-    width: 340px;
-    height: 340px;
+    width: 740px;
+    height: 640px;
   }
 
   .link p {
-    font-size: 84px;
+    font-size: 204px;
   }
   }
