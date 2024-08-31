@@ -76,29 +76,29 @@ body {
   z-index: -1;
 }
 
-(max-width: 868px) {
+(max-width: 968px) {
   .profile img {
-    width: 200%;
-    max-width: 320px;
+    width: 250%;
+    max-width: 440px;
     height: auto;
   }
 
   .profile h1 {
-    font-size: 34px;
+    font-size: 64px;
   }
 
   .link {
-    width: 200%; 
-    max-width: 300px; 
+    width: 250%; 
+    max-width: 350px; 
     height: auto;
   }
 
   .link img {
-    width: 140px;
-    height: 140px;
+    width: 340px;
+    height: 340px;
   }
 
   .link p {
-    font-size: 44px;
+    font-size: 84px;
   }
   }
